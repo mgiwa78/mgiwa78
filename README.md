@@ -17,7 +17,7 @@ I'm a passionate Software Engineer with expertise in full-stack development, spe
 - **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
 - **Backend:** Node.js, Express.js, Python, Django, FastAPI
 - **Database:** PostgreSQL, MongoDB, Redis
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
+- **Cloud & DevOps:** AWS, Docker, CI/CD, Linux
 - **Testing:** Jest, React Testing Library, Cypress
 - **Other:** GraphQL, REST APIs, Microservices Architecture
 
@@ -30,14 +30,8 @@ I'm a passionate Software Engineer with expertise in full-stack development, spe
 
 ## 📚 Education
 
-- **Master of Science in Computer Science**
-
-  - University of XYZ
-  - Specialization in Software Engineering
-
-- **Bachelor of Science in Computer Science**
-  - University of XYZ
-  - Minor in Mathematics
+- **Bachelor of Software Engineering**
+  - Nile University of Nigeria Abuja
 
 ## 📫 Get in Touch
 
