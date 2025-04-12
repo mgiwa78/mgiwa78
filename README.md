@@ -38,7 +38,7 @@ I'm a passionate Software Engineer with expertise in full-stack development, spe
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
 - 📧 Email: [mgiwa78@gmail.com](mailto:mgiwa78@gmail.com)
-- 💼 LinkedIn: [Muhammad Giwa](https://www.linkedin.com/in/muhammad-giwa-software-engineer/)
+- 💼 LinkedIn: [Muhammad Giwa](https://www.linkedin.com/in/muhammad-giwa-0b92011a6/)
 - 🌐 Portfolio: [Muhammad Giwa](https://giwa.vercel.app/)
 
 ## 📊 GitHub Stats & Activities
