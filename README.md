@@ -45,19 +45,13 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgiwa78&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mgiwa78&show_icons=true&theme=radical)](https://github.com/mgiwa78)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mgiwa78&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mgiwa78&theme=radical)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgiwa78&layout=compact&theme=radical&hide=html&langs_count=8)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mgiwa78&layout=compact&theme=radical&hide=html,css&langs_count=6)](https://github.com/mgiwa78)
 
 </div>
-
----
-
-### 📈 Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mgiwa78&theme=radical)
 
 ---
 
