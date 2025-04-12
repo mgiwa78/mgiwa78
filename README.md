@@ -41,10 +41,23 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - 💼 LinkedIn: [Muhammad Giwa](https://www.linkedin.com/in/muhammad-giwa-software-engineer/)
 - 🌐 Portfolio: [Your Portfolio URL]
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activities
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgiwa78&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgiwa78&layout=compact&theme=radical)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgiwa78&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mgiwa78&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgiwa78&layout=compact&theme=radical&hide=html&langs_count=8)
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mgiwa78&theme=radical)
 
 ---
 
