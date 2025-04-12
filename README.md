@@ -39,7 +39,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 - 📧 Email: [mgiwa78@gmail.com](mailto:mgiwa78@gmail.com)
 - 💼 LinkedIn: [Muhammad Giwa](https://www.linkedin.com/in/muhammad-giwa-software-engineer/)
-- 🌐 Portfolio: [Your Portfolio URL]
+- 🌐 Portfolio: [Muhammad Giwa](https://giwa.vercel.app/)
 
 ## 📊 GitHub Stats & Activities
 
