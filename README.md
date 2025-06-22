@@ -45,15 +45,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
   
-![Giwa Muhammad's GitHub stats](https://raw.githubusercontent.com/mgiwa78/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Giwa Muhammad's GitHub stats](https://raw.githubusercontent.com/mgiwa78/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![Giwa Muhammad's GitHub stats](https://raw.githubusercontent.com/mgiwa78/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![Giwa Muhammad's GitHub stats](https://raw.githubusercontent.com/mgiwa78/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-![Giwa Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgiwa78&show_icons=true)
-
-[![Giwa Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgiwa78)](https://github.com/anuraghazra/github-readme-stats)
+[![Giwa's GitHub stats](https://github-readme-stats-topaz-tau-42.vercel.app/api?username=mgiwa78)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
