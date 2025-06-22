@@ -45,13 +45,13 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
   
-![](https://raw.githubusercontent.com/mgiwa78/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mgiwa78/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Giwa Muhammad's GitHub stats](https://raw.githubusercontent.com/mgiwa78/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Giwa Muhammad's GitHub stats](https://raw.githubusercontent.com/mgiwa78/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Giwa Muhammad's GitHub stats](https://raw.githubusercontent.com/mgiwa78/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Giwa Muhammad's GitHub stats](https://raw.githubusercontent.com/mgiwa78/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Giwa Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgiwa78&show_icons=true)
 
 </div>
 
