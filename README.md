@@ -46,6 +46,17 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <div align="center">
   
 [![Giwa's GitHub stats](https://github-readme-stats-topaz-tau-42.vercel.app/api?username=mgiwa78)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats-topaz-tau-42.vercel.app/api?username=mgiwa78&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-topaz-tau-42.vercel.app/api?username=mgiwa78&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-topaz-tau-42.vercel.app/api?username=mgiwa78&show_icons=true" />
+</picture>
 </div>
 
 ---
