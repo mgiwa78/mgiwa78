@@ -53,6 +53,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ![Giwa Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgiwa78&show_icons=true)
 
+[![Giwa Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgiwa78)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
