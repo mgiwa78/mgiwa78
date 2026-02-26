@@ -51,9 +51,11 @@ be part of your visions.
 
 <div align="center">
   
-[![Giwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgiwa78&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Giwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgiwa78&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<sub>Stats from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). Card shows public repos only; for private stats or fresher data, consider [self-hosting](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-recommended) or the [GitHub Action](https://github.com/anuraghazra/github-readme-stats#github-actions).</sub>
 
 ---
 
