@@ -55,8 +55,6 @@ be part of your visions.
 
 </div>
 
-<sub>Stats from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) (self-hosted). Add <code>PAT_1</code> in Vercel for private repo stats.</sub>
-
 ---
 
 ⭐️ From [mgiwa78](https://github.com/mgiwa78)
