@@ -43,21 +43,16 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ## 📊 GitHub Stats & Activities
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=mgiwa78&show_icons=true&cache_seconds=3600"
-      alt="Giwa's GitHub stats"
-    />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mgiwa78&show_icons=true" alt="Giwa's GitHub stats" />
   </a>
-  <br />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=mgiwa78&theme=default"
-      alt="Giwa's GitHub streak"
-    />
+    <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgiwa78&theme=default" alt="GitHub streak" />
   </a>
-</div>
+</p>
+
+*Stats powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ---
 
