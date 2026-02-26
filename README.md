@@ -45,7 +45,9 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
   
-[![Giwa's GitHub stats](https://github-readme-stats-topaz-tau-42.vercel.app/api?username=mgiwa78)](https://github.com/mgiwa78/github-readme-stats)
+[![Giwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgiwa78&show_icons=true&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=mgiwa78&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
