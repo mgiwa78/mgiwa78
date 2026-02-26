@@ -51,7 +51,7 @@ be part of your visions.
 
 <div align="center">
   
-[![Giwa's GitHub stats](https://github-readme-stats-mgiwa78s-projects.vercel.app/api?username=mgiwa78&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Giwa's GitHub stats](https://github-readme-stats-mgiwa78s-projects.vercel.app/api?username=mgiwa78&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
